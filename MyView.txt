@@ -3,3 +3,4 @@ I like coding
 I do not like coding
 I like Jack
 I like Mia
+Creating a new branch is quick AND simple
